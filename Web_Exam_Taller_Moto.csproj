@@ -203,6 +203,7 @@
     <Content Include="Paginas\Scripts\Comunes\Comunes.js" />
     <Content Include="Paginas\Scripts\Comunes\CRUD.js" />
     <Content Include="Paginas\Scripts\Empleado.js" />
+    <Content Include="Paginas\Scripts\Facturacion.js" />
     <Content Include="Paginas\Scripts\Login.js" />
     <Content Include="Paginas\Scripts\Login_1.js" />
     <Content Include="Paginas\Scripts\Menu.js" />
